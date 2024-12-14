@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "df3b68ae-adc5-4c67-aed0-790998f3a3be"
+      }
+    },
+    "owner": "aquaherd"
   }
 }
